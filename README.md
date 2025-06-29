@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhijeet-nalawade-8432a8222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeet-nalawade-8432a8222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhijeet-nalawade-8432a8222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeet-nalawade-8432a8222/" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:abhijitnalawade0101@gmail.com" target="_blank">
+<a href="#" title="abhijitnalawade0101@gmail.com">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="30">
 </a>
 </p>
