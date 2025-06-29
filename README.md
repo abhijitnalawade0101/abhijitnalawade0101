@@ -93,6 +93,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitnalawade0101&show_icons=true&locale=en&layout=compact" alt="abhijitnalawade0101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitnalawade0101&" alt="abhijitnalawade0101" /></p>
