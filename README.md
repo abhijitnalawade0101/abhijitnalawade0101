@@ -21,9 +21,6 @@
   </summary>
   <p><strong>Email:</strong> abhijitnalawade0101@gmail.com</p>
 </details>
-<a href="#" title="abhijitnalawade0101@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="30">
-</a>
 </p>
 
 
