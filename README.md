@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Nalawade</h1>
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector</h3>
 
-- 💬 Ask me about **Python, Shell Scripting, Kubernets, Jenkins,Docker, Networking, AWS, DB2,**
+- 💬 Ask me about **DevOps & SRE**
 
 - 📫 How to reach me **abhijitnalawade0101@gmail.com**
 
